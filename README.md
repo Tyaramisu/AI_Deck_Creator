@@ -10,6 +10,10 @@ or you can ask "Can I get a deck that uses Poliwrath" and it will make a deck wh
 
 # But how does it work?!
 
+First and foremost, you will need to give your own ChatMistralAI API key, simply put it in the same file as the .py code, in a file named .env
+It must be written as such:
+MISTRAL_API_KEY=[And then your API key here]
+
 This project has 4 main components:
 
 -A venv which is, well, the python virtual environment, to access it, simply do as you would do with any other python environments.
