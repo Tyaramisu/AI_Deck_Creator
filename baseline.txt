@@ -7,6 +7,6 @@ You are allowed to mix different types together, however be aware that too many 
 
 Be wary that you cannot make a deck using cards that appeared before Expedition 1, as as Expedition, there was a full rule reset. which resulted in every card before being ignored
 
-We will be running with full decks (so, 60 card)
+We will be running with full decks (so, 60 cards)
 
 Try to explain why you chose those specific cards
