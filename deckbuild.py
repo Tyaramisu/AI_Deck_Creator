@@ -24,7 +24,7 @@ llm = ChatMistralAI(
 )
 
 #Lets see if we can have a more prompt type loop
-print("Type a message, (typing 'exit' will quit):")
+print("Type a deck you would like to make (ex: Make me a defensive Water type deck), (typing 'exit' will quit):")
 
 while True:
     user_text = input("> ")
