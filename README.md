@@ -29,3 +29,7 @@ As the name would imply, this is the regular Python code
 
 # What is there left to do with this code?
 I am not quite sure myself! of course, I will be continuing with adding more cards into the direct database, but I like, expected the project to be more indepth, but then it was like, already done haha
+
+# Credits stuff
+The Pokémon TCG is owned by | The Pokémon Company
+The different Libraries used to make this application a reality goes to their respective creators
